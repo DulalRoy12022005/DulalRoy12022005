@@ -63,32 +63,35 @@ shaping my technical abilities and fueling my passion for technology.
 1. *Deployed SREC Website Using Cloud*
    - *Description*: Developed a robust backend for an e-commerce site featuring user authentication, product management, order processing, and payment integration.
    - *Tools*: EC2, Amplify, S3, CloudFront, Route 53
-   - [GitHub URL](https://github.com/Arjun-Debugs/SREC-Website)
+   - [GitHub URL](https://github.com/DulalRoy12022005/SREC-Website)
 
 2. *Deployed E-Commerce Website (Myntra)*
    - *Description*: Deployed an e-commerce website using cloud.
-   - [GitHub URL](https://github.com/Arjun-Debugs/Myntra-Clone)
+   - [GitHub URL](https://github.com/DulalRoy12022005/Myntra-Clone)
 
 3. *Suggested CI for SREC Website*
    - *Description*: Suggested continuous integration for SREC website.
-   - [GitHub URL](https://github.com/Arjun-Debugs/SREC-CI)
+   - [GitHub URL](https://github.com/DulalRoy12022005/SREC-CI)
 
 4. *Environment for JAVA Based Application*
    - *Description*: Created an environment for a Java-based application.
-   - [GitHub URL](https://github.com/Arjun-Debugs/Java-Environment)
+   - [GitHub URL](https://github.com/DulalRoy12022005/Java-Environment)
 
 5. *Backend Project (Chat Application)*
    - *Description*: Developed a real-time chat application backend supporting one-on-one and group messaging.
-   - [GitHub URL](https://github.com/Arjun-Debugs/Chat-Application)
+   - [GitHub URL](https://github.com/DulalRoy12022005/Chat-Application)
 
 ### 📜 Certifications
 
+- *C – Programming Course (Hands-On)* - Skillrack
+- *Python – Programming Course (Hands-On)* - Skillrack
+- *SQL – Basics* - Skillrack
+- *Android Application Development* - Great Learning 
+- *Fundamentals of Deep Learning* - NVIDIA 
+- *Getting Started with AI on Jetson Nano* - NVIDIA
 - *Quality Assurance Certification* - freeCodeCamp
 - *Relational Database Certification* - freeCodeCamp
-- *C Programming Course* - Skillrack
-- *Python Programming Course* - Skillrack
-- *SQL Basics* - Skillrack
-- *Cisco Packet Tracer* - CISCO Network Academy
+- *Getting Started with Cisco Packet Tracer* - CISCO Network Academy
 
 ### 🌟 Personal Interests
 
@@ -96,11 +99,11 @@ shaping my technical abilities and fueling my passion for technology.
 - 🌱 I’m learning more about AI/ML and Cloud Computing.
 - 👯 I’m looking to collaborate on innovative tech projects.
 - 💬 Ask me about programming, cloud solutions, and backend development.
-- ⚡ Fun fact: I love playing basketball and exploring new places.
+- ⚡ Fun fact: I love playing badminton.
 
 ## 🤝 Let's Connect
 
-You can connect me through [LinkedIn]([https://www.linkedin.com/in/arjun-sudheer-9367001a1](https://www.linkedin.com/in/dulal-roy1202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [Medium]([https://medium.com/@dulalroy1202). You can also email me at dulalroy1202@gmail.com.
+You can connect me through [LinkedIn](https://www.linkedin.com/in/dulal-roy1202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [Medium]([https://medium.com/@dulalroy1202). You can also email me at dulalroy1202@gmail.com.
 
 ---
 
