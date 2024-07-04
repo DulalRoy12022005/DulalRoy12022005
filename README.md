@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hii!+✌;+I'm+Dulal+Roy!;+Welcome+to+my+GitHub+Profile!" />
 </h1>
 <img align="right" alt="Coding" width="400" src="c894f05d0a176de552a9683319dedb29.gif">
+
 ## 📖 About Me
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
