@@ -53,9 +53,9 @@ shaping my technical abilities and fueling my passion for technology.
    - *Tools*: EC2, Amplify, S3, CloudFront, Route 53
    - [GitHub URL](https://github.com/DulalRoy12022005/SREC-Website)
 
-2. *Deployed E-Commerce Website (Myntra)*
+2. *Deployed E-Commerce Website (Amazon)*
    - *Description*: Deployed an e-commerce website using cloud.
-   - [GitHub URL](https://github.com/DulalRoy12022005/Myntra-Clone)
+   - [GitHub URL](https://github.com/DulalRoy12022005/Amazon-Clone)
 
 3. *Suggested CI for SREC Website*
    - *Description*: Suggested continuous integration for SREC website.
@@ -64,10 +64,6 @@ shaping my technical abilities and fueling my passion for technology.
 4. *Environment for JAVA Based Application*
    - *Description*: Created an environment for a Java-based application.
    - [GitHub URL](https://github.com/DulalRoy12022005/Java-Environment)
-
-5. *Backend Project (Chat Application)*
-   - *Description*: Developed a real-time chat application backend supporting one-on-one and group messaging.
-   - [GitHub URL](https://github.com/DulalRoy12022005/Chat-Application)
 
 ### 📜 Certifications
 
