@@ -3,14 +3,14 @@
 </h1>
 <img align="right" alt="Coding" width="350" src="c894f05d0a176de552a9683319dedb29.gif">
 
-## 📖 [About Me](https://drive.google.com/uc?export=download&id=1uAxmi3Ht1SA-BacLSgkgef52s6pk9VkF)
+## 📖 About Me
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
 Enthusiastic and dedicated Computer Science and Engineering student with a passion for leveraging
 technology to solve complex problems. Currently pursuing a Bachelor's degree with a keen interest in
 developing innovative solutions in the dynamic realm of computer science.    </div>
-
+Find my CV [Here](https://drive.google.com/uc?export=download&id=1uAxmi3Ht1SA-BacLSgkgef52s6pk9VkF)
 </div>
 
 ### 🎓 Education
