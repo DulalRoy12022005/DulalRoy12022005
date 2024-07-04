@@ -10,8 +10,6 @@
 Enthusiastic and dedicated Computer Science and Engineering student with a passion for leveraging
 technology to solve complex problems. Currently pursuing a Bachelor's degree with a keen interest in
 developing innovative solutions in the dynamic realm of computer science.    </div>
-Find my CV [Here](https://drive.google.com/uc?export=download&id=1uAxmi3Ht1SA-BacLSgkgef52s6pk9VkF)
-</div>
 
 ### 🎓 Education
 
@@ -109,6 +107,7 @@ shaping my technical abilities and fueling my passion for technology.
   </a>
 </div>
 
+Find my CV [here](https://drive.google.com/uc?export=download&id=1uAxmi3Ht1SA-BacLSgkgef52s6pk9VkF)
 ---
 
 Thank you for visiting my profile. Happy Coding! 😊
