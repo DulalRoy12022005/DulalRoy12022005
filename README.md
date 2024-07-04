@@ -13,7 +13,7 @@ developing innovative solutions in the dynamic realm of computer science.    </d
 
 ### 🎓 Education
 
-I am currently pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna Engineering College.This foundational education has been instrumental in
+I am currently pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna Engineering College. This foundational education has been instrumental in
 shaping my technical abilities and fueling my passion for technology.
 
 ## 🛠 Languages and Tools
