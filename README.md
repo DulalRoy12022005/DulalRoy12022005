@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&color=1e90ff&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hii!+✌;+I'm+Dulal+Roy!;+Welcome+to+my+GitHub+Profile!" />
 </h1>
-<img align="right" alt="Coding" height="300" width="200" src="c894f05d0a176de552a9683319dedb29.gif">
+<img align="right" alt="Coding" height="200" width="300" src="c894f05d0a176de552a9683319dedb29.gif">
 
 ## 📖 About Me
 
