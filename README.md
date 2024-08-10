@@ -111,4 +111,4 @@ shaping my technical abilities and fueling my passion for technology.
 ### 📃 Find my CV [here](https://drive.google.com/uc?export=download&id=1uAxmi3Ht1SA-BacLSgkgef52s6pk9VkF)
 ---
 
-Thank you for visiting my profile. Happy Coding! 😊
+Thank you for visiting my profile. Bonjour! 😊
