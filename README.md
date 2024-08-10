@@ -4,7 +4,7 @@
 
 
 ## 📖 About Me
-<img align="right" alt="Coding" height="200" width="300" src="c894f05d0a176de552a9683319dedb29.gif">
+<img align="right" alt="Coding" height="250" width="300" src="c894f05d0a176de552a9683319dedb29.gif">
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
